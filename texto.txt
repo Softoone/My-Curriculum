@@ -1,0 +1,37 @@
+----------- Personal Info -------------
+
+Guilherme Santos
+softdev.gss@gmail.com
+20yo 
+Salvador,BA
+ --------------------------------------
+
+
+-------Professional Description--------
+
+Possuo perfil produtivo, voltado à solução de problemas de forma eficiente e com enfâse na entrega de resultados positivos. Versatilidade, comunicação e trabalho em equipe fazem parte do meu conjunto de habilidades, juntamente com disposição e comprometimento para lidar com os desafios diários.E apesar de inexperiente em ambientes empresariais estou preparado para encarar novos desafios e desenvolver a mim mesmo enquanto gero valor constante para meus colaboradores.
+
+---------------------------------------
+
+-------------- Formação -------
+
+UNIDOMPEDRO - GRADUAÇÃO TECNÓLOGO EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO
+JAVASCRIPT + HTML BÁSICO
+DESIGN THINKING
+CRIAÇÃO DE SITES WORDPRESS
+SCRUM
+ITIL
+MODELO DE EXCELÊNCIA NA GESTÃO(MEG) NA AVALIAÇÃO DA GESTÃO DO NEGÓCIO
+RESPONSABILIDADE SOCIAL	
+---------------------------------
+
+---------------- Contato ------------
+
+https://www.linkedin.com/in/guilhermedasilva133/
+https://wa.me/qr/NSZOSRHRMBKID1
+
+
+
+  <div class="card-header">Header</div>
+  
+  <div class="card-footer">Footer</div>

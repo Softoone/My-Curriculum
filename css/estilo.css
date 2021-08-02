@@ -1,0 +1,100 @@
+/* ------ BARRA DE NAVEGAÇÃO ------- */
+nav{
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.nav-item{
+    color: darkgrey;
+    font-size: 23px;
+}
+
+.nav-link:hover{
+    font-size: 27px;
+    color: white;
+}
+
+.btn-link{
+    color: darkgrey;
+    font-size: 23px;
+}
+
+.btn-link:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+}
+
+.contato{
+    padding: 30px;
+    font-size: 60px;
+}
+
+.contato:hover{
+    text-decoration: none;
+}
+
+/* ------ BARRA DE NAVEGAÇÃO ------- */
+
+
+main{
+    background-color: #152942;
+}
+
+/* ------ SEÇÃO 01 ------- */
+.section{
+    width: 940px;
+    height: 500px;
+    display: block;
+}
+
+#perfil{
+    width: 28%;
+    padding: 25px 0 25px 50px;
+
+}
+
+hr{
+    background-color: white;
+}
+/* ------ FIM - SEÇÃO 01 ------- */
+
+/* ------ SEÇÃO 02 ------- */
+
+/* ------ FIM - SEÇÃO 02 ------- */
+
+/* ------ SEÇÃO 03 ------- */
+
+.progress{
+    font-size: 14px;
+    font-family: 'Zen Dots';
+}
+
+
+/* ------ FIM - SEÇÃO 03 ------- */
+
+
+/* ------ FOOTER ------- */
+
+footer{
+    background-color: #1C2331;
+}
+
+.foot-text{
+    color: white;
+    font-size: 14px;
+    font-family: 'Zen Dots';
+}
+
+footer button{
+    margin-bottom: 25px;
+}
+
+button i{
+    color: white;
+    font-size: 18px;
+    
+}
+
+
+/* ------ FOOTER ------- */
